@@ -170,7 +170,7 @@ HUAWEI_CLOUD_PROJECT_ID=your_project_id
 HUAWEICLOUD_REGION_ID=your_region_id
 HUAWEICLOUD_APP_ID=your_app_id
 ```
-华为云SDK配置使用方式详情见：<a href:"https://support.huaweicloud.com/sdkreference-iothub/iot_10_10006.html">华为云官方文档</a>
+华为云SDK配置使用方式详情见：https://support.huaweicloud.com/sdkreference-iothub/iot_10_10006.html
 
 
 4. 启动后端服务
@@ -209,7 +209,7 @@ npm run build
 ## 🔍 系统功能详解
 
 <div align="center">
-  <img src="https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*bWIkQJXnqQoAAAAAAAAAAAAADrJ8AQ/original" alt="系统功能" width="650" />
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/1.png" alt="系统功能" width="650" />
 </div>
 
 ### 前端页面
