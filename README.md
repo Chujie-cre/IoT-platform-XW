@@ -49,7 +49,7 @@
 小窝物联网平台是一个基于华为云IoT平台SDK开发的完整物联网解决方案，提供设备管理、产品管理、实时监控和数据可视化等功能。该平台采用前后端分离架构，前端使用Vue.js，后端使用Node.js，为物联网设备提供全生命周期管理服务。
 
 <div align="center">
-  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/favicon.png" alt="快速开始" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #eaeaea; padding: 5px; background-color: #fff;" />
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/favicon.png" alt="快速开始" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #eaeaea; padding: 5px; background-color: #fff;" />
 </div>
 
 ## ✨ 主要特性
