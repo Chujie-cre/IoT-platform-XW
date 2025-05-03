@@ -312,7 +312,15 @@ npm run build
 如有任何问题或建议，请通过以下方式联系我们：
 
 - 项目维护者: 雏结
-- 项目仓库: [GitHub](https://github.com/Chujie-cre/IoT-platform-XW) 
+- 项目仓库: [GitHub](https://github.com/Chujie-cre/IoT-platform-XW)
+- qq群： 597417126
+
+## 💎 赞赏
+
+如果项目对您有帮助，感谢您的赞赏：
+<img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/IMG_20250504_003312.png">
+<img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/IMG_20250504_003337.jpg">
+
 
 ## ⭐ 星标历史
 
