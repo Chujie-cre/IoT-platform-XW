@@ -47,7 +47,7 @@
 小窝物联网平台是一个基于华为云IoT平台SDK开发的完整物联网解决方案，提供设备管理、产品管理、实时监控和数据可视化等功能。该平台采用前后端分离架构，前端使用Vue.js，后端使用Node.js，为物联网设备提供全生命周期管理服务。
 
 <div align="center">
-  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/2.png" alt="物联网平台特性" width="700" />
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/favicon.png" alt="物联网平台特性" width="700" />
 </div>
 
 ## ✨ 主要特性
@@ -65,9 +65,6 @@
 
 ## 💻 技术栈
 
-<div align="center">
-  <img src="https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*OJNRSJOLb2QAAAAAAAAAAAAADrJ8AQ/original" alt="技术栈" width="650" />
-</div>
 
 ### 后端
 - 🛠️ **Node.js + Express.js**：构建RESTful API服务
@@ -126,7 +123,7 @@
 ## 🚦 快速开始
 
 <div align="center">
-  <img src="https://mdn.alipayobjects.com/huamei_7uahnr/afts/img/A*NvUSSqRqkfQAAAAAAAAAAAAADrJ8AQ/original" alt="快速开始" width="500" />
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/2.png" alt="快速开始" width="500" />
 </div>
 
 ### 环境要求
