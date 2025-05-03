@@ -317,6 +317,6 @@ npm run build
 ## ⭐ 星标历史
 
 <div align="center">
-  <img src="https://starchart.cc/Chujie-cre/IoT-platform-XW.svg" alt="Star History Chart" width="700" />
+  <img src="https://api.star-history.com/svg?repos=Chujie-cre/IoT-platform-XW&type=Date" alt="Star History Chart" width="700" />
   <p>如果您喜欢这个项目，请给我一个星标支持！</p>
 </div>
