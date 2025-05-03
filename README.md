@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏠 小窝物联网平台 (WLW IoT Platform)
+# 🏠 小窝物联网平台 (XW IoT Platform)
 
 </div>
 
@@ -153,21 +153,25 @@ npm install
 创建`.env`文件并填写以下配置：
 ```
 # 服务器配置
-PORT=3000
+PORT=4000
 NODE_ENV=development
 
 # 数据库配置
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=yourpassword
-DB_NAME=wlw_iot
+DB_NAME=yourDBname
 
 # 华为云配置
 HUAWEI_CLOUD_AK=your_access_key
 HUAWEI_CLOUD_SK=your_secret_key
 HUAWEI_CLOUD_ENDPOINT=https://iotda.cn-north-4.myhuaweicloud.com
 HUAWEI_CLOUD_PROJECT_ID=your_project_id
+HUAWEICLOUD_REGION_ID=your_region_id
+HUAWEICLOUD_APP_ID=your_app_id
 ```
+华为云SDK配置使用方式详情见：<a href:"https://support.huaweicloud.com/sdkreference-iothub/iot_10_10006.html">华为云官方文档</a>
+
 
 4. 启动后端服务
 ```bash
@@ -189,7 +193,7 @@ npm install
 2. 配置API地址
 如果需要，编辑`.env`文件：
 ```
-VUE_APP_API_URL=http://localhost:3000
+VUE_APP_API_URL=http://localhost:4000
 ```
 
 3. 启动前端开发服务器
