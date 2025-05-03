@@ -49,7 +49,7 @@
 小窝物联网平台是一个基于华为云IoT平台SDK开发的完整物联网解决方案，提供设备管理、产品管理、实时监控和数据可视化等功能。该平台采用前后端分离架构，前端使用Vue.js，后端使用Node.js，为物联网设备提供全生命周期管理服务。
 
 <div align="center">
-  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/favicon.png" alt="物联网平台特性" width="700" />
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/2.png" alt="快速开始" width="500" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #eaeaea; padding: 5px; background-color: #fff;" />
 </div>
 
 ## ✨ 主要特性
@@ -318,8 +318,10 @@ npm run build
 ## 💎 赞赏
 
 如果项目对您有帮助，感谢您的赞赏：
-<img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/IMG_20250504_003312.png">
-<img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/IMG_20250504_003337.jpg">
+<div align="center">
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/IMG_20250504_003312.png" alt="微信赞赏码" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #eaeaea; padding: 5px; background-color: #fff; margin: 10px;" />
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/IMG_20250504_003337.jpg" alt="支付宝赞赏码" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #eaeaea; padding: 5px; background-color: #fff; margin: 10px;" />
+</div>
 
 
 ## ⭐ 星标历史
