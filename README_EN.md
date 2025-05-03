@@ -23,6 +23,9 @@
 <div align="center">
   
   📱 **Cross-platform Support** &nbsp;|&nbsp; 🌐 **Real-time Monitoring** &nbsp;|&nbsp; ⚡ **Efficient Management** &nbsp;|&nbsp; 🔒 **Secure & Reliable**
+  <p>
+    <a href="README.md">🇨🇳 中文文档</a> &nbsp;|&nbsp; <b>🌍 English Documentation</b>
+  </p>
 
 </div>
 
