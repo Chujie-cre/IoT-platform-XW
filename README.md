@@ -313,3 +313,10 @@ npm run build
 
 - 项目维护者: 雏结
 - 项目仓库: [GitHub](https://github.com/Chujie-cre/IoT-platform-XW) 
+
+## ⭐ 星标历史
+
+<div align="center">
+  <img src="https://star-history.com/#Chujie-cre/IoT-platform-XW&Date" alt="Star History Chart" width="700" />
+  <p>如果您喜欢这个项目，请给我们一个星标支持！</p>
+</div>
