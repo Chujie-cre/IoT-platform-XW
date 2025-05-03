@@ -23,7 +23,9 @@
 <div align="center">
   
   📱 **跨平台支持** &nbsp;|&nbsp; 🌐 **实时监控** &nbsp;|&nbsp; ⚡ **高效管理** &nbsp;|&nbsp; 🔒 **安全可靠**
-
+  <p>
+    <a href="README_EN.md">🌍 English Documentation</a> &nbsp;|&nbsp; <b>🇨🇳 中文文档</b>
+  </p>
 </div>
 
 ## 📑 目录
