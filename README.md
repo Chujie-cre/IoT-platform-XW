@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/0.png" alt="物联网平台示意图" width="600" />
+  <img src="http://find.kingdomofown.cn/wp-content/uploads/2025/05/屏幕截图-2025-05-17-041741.png" alt="物联网平台示意图" width="600" />
 </div>
 
 <div align="center">
